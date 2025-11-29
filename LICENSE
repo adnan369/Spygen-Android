@@ -1,24 +1,14 @@
-This is free and unencumbered software released into the public domain.
+⚠️ Disclaimer
+These tools must not be used to track, monitor, control, or access someone’s device without their clear permission.
+Any misuse of these apps may violate privacy laws, and strict legal actions can be taken in many countries.
+The developer of this repository is not responsible for how these projects are used.
+Use at your own risk and only on devices you fully own or have explicit consent to test on.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+✅ Purpose of This Repository
+Learning advanced Android components
+Testing automation and device-management concepts
+Building personal utility apps
+Exploring system-level features for research
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+📌 Note
+If you clone, modify, or use any project from this repository, make sure your usage is ethical, legal, and within privacy guidelines.
