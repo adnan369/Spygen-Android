@@ -1,14 +1,19 @@
-⚠️ Disclaimer
-These tools must not be used to track, monitor, control, or access someone’s device without their clear permission.
-Any misuse of these apps may violate privacy laws, and strict legal actions can be taken in many countries.
-The developer of this repository is not responsible for how these projects are used.
-Use at your own risk and only on devices you fully own or have explicit consent to test on.
+Copyright (c) 2025
 
-✅ Purpose of This Repository
-Learning advanced Android components
-Testing automation and device-management concepts
-Building personal utility apps
-Exploring system-level features for research
+Permission is hereby granted to any person obtaining a copy of this software
+and associated documentation files (the “Software”), to use, modify, and study
+the Software for educational, research, and personal testing purposes only.
 
-📌 Note
-If you clone, modify, or use any project from this repository, make sure your usage is ethical, legal, and within privacy guidelines.
+The Software must NOT be used:
+- To monitor, track, control, or access any device without clear and explicit consent.
+- For spying, surveillance, data collection, or any activity that violates privacy laws.
+- For commercial distribution without proper permission.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE DEVELOPER SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR LEGAL
+ISSUES ARISING FROM MISUSE OF THE SOFTWARE.
+
+By using this repository, you agree to use the Software responsibly, ethically,
+and strictly within legal boundaries.
+
+USE AT YOUR OWN RISK.
